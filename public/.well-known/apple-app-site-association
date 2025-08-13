@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [ "6723903153.com.deal.buddy" ],
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
